@@ -39,3 +39,11 @@
 </ul>
 
 ### Interface de exemplo fornecida pelo professor
+
+<img src="./assets/interface-desafio.png" alt="interface de exemplo"/>
+
+### Resultado final da aplicação
+
+<img src="./assets/user-filter.png" alt="interface final da aplicação"/>
+<img src="./assets/user-filter-search-1.png" alt="resultado da busca com o termo Ana"/>
+<img src="./assets/user-filter.gif" alt="git da aplicação"/>
